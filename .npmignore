@@ -4,4 +4,5 @@
 .npmignore
 .gitignore
 npm-debug.log
+lerna-debug.log
 example
