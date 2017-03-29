@@ -22,8 +22,5 @@
   "homepage": "https://github.com/eryue0220/webpack-proxy-plugin#readme",
   "dependencies": {
     "chalk": "^1.1.3"
-  },
-  "devDependencies": {
-    "lerna": "2.0.0-beta.38"
   }
 }
